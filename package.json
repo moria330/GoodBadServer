@@ -1,0 +1,15 @@
+{
+  "name": "goodbadserver",
+  "version": "1.0.0",
+  "description": "Two servers one saying good things the other bad.",
+  "main": "goodbadserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Jakobovic",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "twitter": "^1.7.0"
+  }
+}
